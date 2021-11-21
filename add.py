@@ -1,0 +1,5 @@
+print('Lets practice what we have learnt with a simple addition')
+firstnumber=input('What is your favorite number? ')
+secondnumber=input('Choose another number. ')
+totalsum=(int(firstnumber)+int(secondnumber))
+print(f'The sum of the numbers you chose is {totalsum}')
